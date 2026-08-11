@@ -1,4 +1,4 @@
 ---
-title: "My first page in Github >_<"
+title: "Github is so Cool"
 date: 2026-08-11
 ---
